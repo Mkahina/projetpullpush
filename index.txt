@@ -1,0 +1,8 @@
+hhhhhhhhhhhkkkkkkkkkkkkk
+<<<<<<< HEAD
+bonsoir
+bonsoir
+=======
+bonjour 
+bonsoir 
+>>>>>>> 1c3e658944e8054c10baf9d0e6df5a6893d261fa
